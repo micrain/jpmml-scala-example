@@ -1,0 +1,1 @@
+This is a bare bones Scala example demonstrating how to use the [JPPML library](https://github.com/jpmml) to evaluate [PMML](http://dmg.org/pmml/pmml-v4-2-1.html) files.
