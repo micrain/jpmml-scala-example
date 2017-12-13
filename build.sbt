@@ -1,9 +1,9 @@
 name := "jpmml-scala-example"
 
-version := "1.0"
+version := "1.1"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.12.4"
 
-libraryDependencies += "org.jpmml" % "pmml-evaluator" % "1.2.6"
+libraryDependencies += "org.jpmml" % "pmml-evaluator" % "1.3.10"
 
-libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.2.2"
+libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.5"
